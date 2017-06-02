@@ -7,3 +7,4 @@ Most of them contain some slight changes and each folder has a `readme.md` file 
 Dev on!
 
 [01: JavaScript Drums](https://github.com/andreidbr/JS30/tree/master/01drum)
+[02: Analog clock](https://github.com/andreidbr/JS30/tree/master/02clock)
