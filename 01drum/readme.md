@@ -1,4 +1,4 @@
-![JS01](/js01.png)
+![JS01](/js01.jpg)
 # JavaScript30 Challenge 01 - Interactive Drums
 This simple website enables users to play drum sounds using 9 buttons on their keyboard.
 

@@ -5,3 +5,5 @@ This repo contains all the challenges in the [JavaScript30](https://javascript30
 Most of them contain some slight changes and each folder has a `readme.md` file with lessons learned in that particular challenge.
 
 Dev on!
+
+[01: JavaScript Drums](https://github.com/andreidbr/JS30/tree/master/01drum)
