@@ -17,3 +17,5 @@ Dev on!
 [05: Flexbox Gallery](https://github.com/andreidbr/JS30/tree/master/05FlexGallery)
 
 [06: Type Ahead](https://github.com/andreidbr/JS30/tree/master/06AjaxTypeAhead)
+
+[07: JS Arrays #2](https://github.com/andreidbr/JS30/tree/master/07JSArray02)
