@@ -13,3 +13,5 @@ Dev on!
 [03: CSS Variables](https://github.com/andreidbr/JS30/tree/master/03CSSvar)
 
 [04: JS Arrays #1](https://github.com/andreidbr/JS30/tree/master/04JSarray)
+
+[05: Flexbox Gallery](https://github.com/andreidbr/JS30/tree/master/05FlexGallery)
