@@ -19,3 +19,5 @@ Dev on!
 [06: Type Ahead](https://github.com/andreidbr/JS30/tree/master/06AjaxTypeAhead)
 
 [07: JS Arrays #2](https://github.com/andreidbr/JS30/tree/master/07JSArray02)
+
+[08: HTML5 Canvas](https://github.com/andreidbr/JS30/tree/master/08HTML5Canvas)
