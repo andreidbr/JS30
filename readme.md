@@ -21,3 +21,5 @@ Dev on!
 [07: JS Arrays #2](https://github.com/andreidbr/JS30/tree/master/07JSArray02)
 
 [08: HTML5 Canvas](https://github.com/andreidbr/JS30/tree/master/08HTML5Canvas)
+
+[09: Dev Tools Tricks](https://github.com/andreidbr/JS30/tree/master/09DevToolsTricks)
