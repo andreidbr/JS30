@@ -23,3 +23,5 @@ Dev on!
 [08: HTML5 Canvas](https://github.com/andreidbr/JS30/tree/master/08HTML5Canvas)
 
 [09: Dev Tools Tricks](https://github.com/andreidbr/JS30/tree/master/09DevToolsTricks)
+
+[10: Shift and checkboxes](https://github.com/andreidbr/JS30/tree/master/10Check)
