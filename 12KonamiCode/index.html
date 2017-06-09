@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+  <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+  <h1>What is the best name?</h1>
+
+  <style>
+  body {
+    text-align: center;
+    background: #193549;
+    color: white;
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+  }
+  </style>
+<script>
+  const pressed = [];
+  const secretCode = 'andrei';
+  window.addEventListener('keyup', (e) => {
+    console.log(e.key);
+    pressed.push(e.key);
+    pressed.splice(-secretCode.length -1, pressed.length -secretCode.length);
+    if(pressed.join('').includes(secretCode)) {
+      console.log('Ding Ding');
+      cornify_add();
+    }
+    console.log(pressed);
+  });
+</script>
+</body>
+</html>

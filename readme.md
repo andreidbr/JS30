@@ -25,3 +25,7 @@ Dev on!
 [09: Dev Tools Tricks](https://github.com/andreidbr/JS30/tree/master/09DevToolsTricks)
 
 [10: Shift and checkboxes](https://github.com/andreidbr/JS30/tree/master/10Check)
+
+[11: HTML5 Video Player](https://github.com/andreidbr/JS30/tree/master/11VideoPlayer)
+
+[12: Sequence Detector](https://github.com/andreidbr/JS30/tree/master/12KonamiCode)
