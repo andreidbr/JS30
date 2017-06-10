@@ -33,3 +33,5 @@ Dev on!
 [13: Slide in on Scroll](https://github.com/andreidbr/JS30/tree/master/13SlideScroll)
 
 [14: JS References and Copies](https://github.com/andreidbr/JS30/tree/master/14JSReferenceCopy)
+
+[15: Local Storage](https://github.com/andreidbr/JS30/tree/master/15LocalStorage)
