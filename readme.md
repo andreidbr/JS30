@@ -29,3 +29,7 @@ Dev on!
 [11: HTML5 Video Player](https://github.com/andreidbr/JS30/tree/master/11VideoPlayer)
 
 [12: Sequence Detector](https://github.com/andreidbr/JS30/tree/master/12KonamiCode)
+
+[13: Slide in on Scroll](https://github.com/andreidbr/JS30/tree/master/13SlideScroll)
+
+[14: JS References and Copies](https://github.com/andreidbr/JS30/tree/master/14JSReferenceCopy)
