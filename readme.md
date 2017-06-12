@@ -35,3 +35,7 @@ Dev on!
 [14: JS References and Copies](https://github.com/andreidbr/JS30/tree/master/14JSReferenceCopy)
 
 [15: Local Storage](https://github.com/andreidbr/JS30/tree/master/15LocalStorage)
+
+[16: Shadow on mouse move](https://github.com/andreidbr/JS30/tree/master/16MouseMoveShadow)
+
+[17: Sort without articles](https://github.com/andreidbr/JS30/tree/master/17SortWithoutArticles)
