@@ -39,3 +39,7 @@ Dev on!
 [16: Shadow on mouse move](https://github.com/andreidbr/JS30/tree/master/16MouseMoveShadow)
 
 [17: Sort without articles](https://github.com/andreidbr/JS30/tree/master/17SortWithoutArticles)
+
+[18: Adding up with Reduce](https://github.com/andreidbr/JS30/tree/master/18SumReduce)
+
+[19: Webcam manipulation](https://github.com/andreidbr/JS30/tree/master/19Webcam)
