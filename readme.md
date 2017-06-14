@@ -47,3 +47,11 @@ Dev on!
 [20: Speech recognition](https://github.com/andreidbr/JS30/tree/master/20SpeechDetection)
 
 [21: Geolocation](https://github.com/andreidbr/JS30/tree/master/21Geolocation)
+
+[22: Follow Links](https://github.com/andreidbr/JS30/tree/master/22FollowLink)
+
+[23: Speech Synthesis](https://github.com/andreidbr/JS30/tree/master/23SpeechSynthesis)
+
+[24: Sticky Nav Bar](https://github.com/andreidbr/JS30/tree/master/24StickyNav)
+
+[25: JS Capture and Event Listeners](https://github.com/andreidbr/JS30/tree/master/25JSCapture)
