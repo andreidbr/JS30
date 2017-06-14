@@ -55,3 +55,5 @@ Dev on!
 [24: Sticky Nav Bar](https://github.com/andreidbr/JS30/tree/master/24StickyNav)
 
 [25: JS Capture and Event Listeners](https://github.com/andreidbr/JS30/tree/master/25JSCapture)
+
+[26: Dropdown Follow](https://github.com/andreidbr/JS30/tree/master/26FollowDropdown)
