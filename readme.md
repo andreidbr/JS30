@@ -43,3 +43,7 @@ Dev on!
 [18: Adding up with Reduce](https://github.com/andreidbr/JS30/tree/master/18SumReduce)
 
 [19: Webcam manipulation](https://github.com/andreidbr/JS30/tree/master/19Webcam)
+
+[20: Speech recognition](https://github.com/andreidbr/JS30/tree/master/20SpeechRecognition)
+
+[21: Geolocation](https://github.com/andreidbr/JS30/tree/master/21Geolocation)
