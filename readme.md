@@ -61,3 +61,5 @@ Dev on!
 [27: Click and drag](https://github.com/andreidbr/JS30/tree/master/27ClickDrag)
 
 [28: Video Speed Controller](https://github.com/andreidbr/JS30/tree/master/28VideoSpeed)
+
+[29: Countdown Timer](https://github.com/andreidbr/JS30/tree/master/29Countdown)
