@@ -57,3 +57,5 @@ Dev on!
 [25: JS Capture and Event Listeners](https://github.com/andreidbr/JS30/tree/master/25JSCapture)
 
 [26: Dropdown Follow](https://github.com/andreidbr/JS30/tree/master/26FollowDropdown)
+
+[27: Click and drag](https://github.com/andreidbr/JS30/tree/master/27ClickDrag)
