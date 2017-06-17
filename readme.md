@@ -4,7 +4,7 @@
 This repo contains all the challenges in the [JavaScript30](https://javascript30.com/) course organized by Wes Bos.
 Most of them contain some slight changes and each folder has a `readme.md` file with lessons learned in that particular challenge.
 
-My full impressions of the course are available on Medium and the live demonstrations are on my website.
+My full impressions of the course are available on [Medium](https://medium.com/@andrey.dobra/impressions-and-thoughts-after-the-javascript-30-course-358d8bdcddb2) and the live demonstrations are on [my website](https://andreidbr.github.io/JS30/).
 
 [01: JavaScript Drums](https://github.com/andreidbr/JS30/tree/master/01drum)
 
