@@ -1,4 +1,4 @@
-![JS05](js05.jpg)
+![JS05](js05.png)
 # JavaScript30 Challenge 05 - Flexbox gallery
 Display images in a dynamic gallery using flexbox
 
